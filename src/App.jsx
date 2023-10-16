@@ -1,3 +1,4 @@
+import { useSelector } from "react-redux"
 import NavBar from "./components/NavBar"
 
 function App() {
